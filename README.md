@@ -16,3 +16,25 @@ Here are some ideas to get me started:
   - `Raspberry Pi [Sold Out]`
   - `Furry Artworks`
 
+
+```
+pi@raspberrypi:java -Xmx1024M -Xms1024M -jar start.jar nogui
+[23:15:41] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[23:15:41] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[23:15:41] [Server thread/INFO]: Loading properties
+[23:15:41] [Server thread/INFO]: Default game type: SURVIVAL
+[23:15:41] [Server thread/INFO]: Generating keypair
+[23:15:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+......
+[23:15:52] [Server thread/INFO]: Preparing spawn area: 95%
+[23:15:52] [Server thread/INFO]: Done (11.4514s)! For help, type "help" or "?"
+[23:16:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3083ms behind, skipping 61 tick(s)
+[23:16:13] [Server thread/INFO]: Stopping server
+[23:16:13] [Server thread/INFO]: Saving players
+[23:16:13] [Server thread/INFO]: Saving worlds
+[23:16:13] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[23:16:13] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[23:16:13] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[23:16:13] [Server Shutdown Thread/INFO]: Stopping server
+pi@raspberrypi:
+```
