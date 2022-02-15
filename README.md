@@ -16,7 +16,7 @@ Here are some ideas to get me started:
   - `Raspberry Pi [Sold Out]`
   - `Furry Artworks`
 
-
+<!--
 ```
 pi@raspberrypi:java -Xmx1024M -Xms1024M -jar start.jar nogui
 [23:15:41] [Server thread/INFO]: Starting minecraft server version 1.7.10
@@ -38,3 +38,4 @@ pi@raspberrypi:java -Xmx1024M -Xms1024M -jar start.jar nogui
 [23:16:13] [Server Shutdown Thread/INFO]: Stopping server
 pi@raspberrypi:
 ```
+--!>
