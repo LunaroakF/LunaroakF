@@ -1,17 +1,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunaroakF&layout=compact)
-### LunaroakF / WorldFunctions There!  
+### LunaroakF / World Functions There!  
 
 <!--**LunaroakF/LunaroakF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.!-->
 
-Here are some ideas to get me started:
+LOOK AT ME!
 
-- 🔭 I’m currently working on `School Life`
+- 🐾 I have a `Big tail`
 - 🌱 I’m currently learning `Dynamic Digital Artwork | Adobe After Effects`
 - 🔎 I’m looking to collaborate on `Game Designing & Programming`
 - 🤔 I’m looking for help with Someone `Patiently and Funny`
 - 🌏 I Can Speak `中文 | English`
 - 📫 How to reach me: [BiliBili-狐冥栎](https://space.bilibili.com/23503032)、[Minecraft存档下载](https://lunaroakf.gitee.io/minecraftsaves)
-- 😄 Pronouns: `!`
+- 😄 Pronouns: `wm`
 - ⚡ Fun fact:  
   - `Raspberry Pi`
   - `Furry Artworks`
