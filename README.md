@@ -5,7 +5,7 @@
 
 LOOK AT ME!
 
-- 🐾 I have a `Big tail`
+- 🐾 I got a `Big tail`
 - 🌱 I’m currently learning `Dynamic Digital Artwork | Adobe After Effects`
 - 🔎 I’m looking to collaborate on `Game Designing & Programming`
 - 🤔 I’m looking for help with Someone `Patiently and Funny`
