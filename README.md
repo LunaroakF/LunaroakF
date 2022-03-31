@@ -1,6 +1,6 @@
 <img align="right" width="" height="500" position="fixed" src="https://github.com/LunaroakF/LunaroakF/blob/main/0331_1.png"/>  
 </br>
-<img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=LunaroakF&count_private=true&show_icons=true&theme=default"/>  
+<img align="left" width="" src="https://github-readme-stats.vercel.app/api?username=LunaroakF&count_private=true&show_icons=true&theme=default"/>  
 </br></br></br></br></br></br></br></br></br>
 
 # The Another Part in that heart  
