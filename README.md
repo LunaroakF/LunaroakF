@@ -4,7 +4,9 @@
 </br></br></br></br></br></br></br></br>
 
 # The Another Part in that heart  
-Every thing began to live...   
+*Everything began to live...*  
+
+
 </br>
 
 </br></br></br></br></br>
