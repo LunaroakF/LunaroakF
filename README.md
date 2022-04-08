@@ -12,7 +12,7 @@
 </br></br></br></br></br>
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaroakF&show_icons=true&theme=default" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaroakF&hide=css&show_icons=true&theme=default" />
 
 ### LunaroakF / World Functions There!  
 
