@@ -3,7 +3,7 @@
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=LunaroakF&hide=contribs,issues&count_private=true&show_icons=true&theme=default"/>  
 </br></br></br></br></br></br></br></br>
 
-# The Another Part in that heart  
+# The Another Part in my heart  
 *Everything began to live...*  
 
 
