@@ -5,7 +5,7 @@
 
 # The Another Part in my heart  
 *Everything began to live...*  
-
+*Luarshey's official blog [here](http://hehu.tpddns.cn:600/) (Maybe not work)*
 
 </br>
 
@@ -24,7 +24,7 @@ LOOK AT ME!
 - 🔎 I’m looking to collaborate on `Game Designing & Programming`
 - 🤔 I’m looking for help with Someone `Patiently and Funny`
 - 🌏 I Can Speak `中文 | English`
-- 📫 How to reach me: [BiliBili-露尔希Luarshey](https://space.bilibili.com/23503032)、[Minecraft存档下载](https://lunaroakf.gitee.io/minecraftsaves)
+- 📫 How to reach me: [BiliBili-狐冥栎](https://space.bilibili.com/23503032)、[弱狐服务器交流组 - 存档下载页](https://lunaroakf.gitee.io/minecraftsaves)
 - 😄 Pronouns: `wm`
 - ⚡ Fun fact:  
   - `Raspberry Pi`
