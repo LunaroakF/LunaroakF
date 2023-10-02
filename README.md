@@ -30,10 +30,11 @@ LOOK AT ME!
   - `Raspberry Pi`
   - `Furry Artworks`
 
+<!--
 <div align="center" width="487" height="324">
     <img src="https://github.com/LunaroakF/LunaroakF/blob/main/paper.png" alt="图片描述" width="300" height="200">
 </div>
-
+-->
 
 <!--
 ```
