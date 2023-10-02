@@ -31,7 +31,7 @@ LOOK AT ME!
   - `Furry Artworks`
 
 <div align="center" width="487" height="324">
-    <img src="https://github.com/LunaroakF/LunaroakF/blob/main/paper.png" alt="图片描述" width="487" height="324">
+    <img src="https://github.com/LunaroakF/LunaroakF/blob/main/paper.png" alt="图片描述" width="240" height="160">
 </div>
 
 
